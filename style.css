@@ -1,0 +1,48 @@
+body {
+    background-color: green;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.colorfull {
+    color: orangered;
+}
+
+.pori {
+    color: blue;
+}
+
+section {
+    display: flex;
+    padding: 5%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    padding: 5%;
+}
+
+P {
+    padding-right: 3%;
+}
+
+.link-button {
+    text-decoration: none;
+
+    padding: 1px;
+    border-radius: 5px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+p {
+    padding-left: 5% 5%;
+}
